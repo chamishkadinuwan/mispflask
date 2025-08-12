@@ -1,0 +1,5 @@
+Metric,Value,Percentage
+Accuracy,0.685,68.5%
+Precision,0.685,68.5%
+Recall,0.685,68.5%
+F1-Score,0.635,63.5%
