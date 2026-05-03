@@ -8,3 +8,13 @@ test_classification_metrics_image: PASS
 test_regression_metrics: PASS
 test_feature_importance: PASS
 test_send_email: PASS
+test_flood_predictions: PASS
+test_resource_needs: PASS
+test_resource_needs_monthly: PASS
+test_flood_chart: PASS
+test_validation_results: PASS
+test_classification_metrics: PASS
+test_classification_metrics_image: PASS
+test_regression_metrics: PASS
+test_feature_importance: PASS
+test_send_email: PASS
